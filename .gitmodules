@@ -1,0 +1,6 @@
+[submodule "services"]
+	path = services
+	url = git@github.com:DoMo-98/ailab-services.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:DoMo-98/ailab-frontend.git
